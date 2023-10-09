@@ -3,7 +3,5 @@ My material for the ETICS 2023 Research School
 
 <https://www.gdr-mascotnum.fr/etics.html>
 
-[./2023_ETICS_Optimisation.pdf](2023_ETICS_Optimisation)
-
-1. Introduction to linear and nonlinear optimization (in French)
+1. [2023_ETICS_Optimisation](./2023_ETICS_Optimisation.pdf): Introduction to linear and nonlinear optimization (in French)
 2. Blackbox optimization algorithms
