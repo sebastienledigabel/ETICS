@@ -11,3 +11,6 @@ Slides:
 
 Practical part:
 1. [`01_first_optimization`](./slides/practical/): A first optimization with [NOMAD](https://www.gerad.ca/nomad)
+2. [`01_first_optimization`](./slides/practical/):
+3. [`01_first_optimization`](./slides/practical/):
+4. [`01_first_optimization`](./slides/practical/):
