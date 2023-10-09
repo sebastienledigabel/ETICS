@@ -11,6 +11,6 @@ Slides:
 
 Practical part:
 1. [`01_first_optimization`](./slides/practical/01_first_optimization): A first optimization with [NOMAD](https://www.gerad.ca/nomad)
-2. [`02_SOLAR6`](./slides/practical/02_SOLAR6): Optimization results on (SOLAR)[https://github.com/bbopt/solar/] with [NOMAD](https://www.gerad.ca/nomad) and [CMA-ES](https://cma-es.github.io)
+2. [`02_SOLAR6`](./slides/practical/02_SOLAR6): Optimization results on [SOLAR](https://github.com/bbopt/solar/) with [NOMAD](https://www.gerad.ca/nomad) and [CMA-ES](https://cma-es.github.io)
 3. [`03_LHS`](./slides/practical/03_LHS): Some code for Latin hypercube sampling
 4. [`04_Plots`](./slides/practical/04_Plots): How to plot convergence graphs, performance and data profiles
