@@ -34,8 +34,9 @@ def c(x):
             print(bbx[i]," ",file=x_file,end="")
         x_file.close()
 
-    os.system("nice $SOLAR_HOME/bin/solar 6 x_tmp.txt > solar_output_tmp.txt")
-
+    #os.system("nice $SOLAR_HOME/bin/solar 6 x_tmp.txt > solar_output_tmp.txt")
+    os.system("nice ../solar/bin/solar 6 x_tmp.txt > solar_output_tmp.txt")
+    
     with open('solar_output_tmp.txt', 'r') as solar_output:
         s=solar_output.read()
         solar_output.close()
