@@ -9,4 +9,5 @@ Slides:
 3. [`slides/2023_ETICS_Applications`](./slides/2023_ETICS_Applications.pdf):Applications
 4. [`slides/2023_ETICS_Practical`](./slides/2023_ETICS_Practical.pdf):Slides for the practical part
 
-Practical parts:
+Practical part:
+1. [`01_first_optimization`](./slides/practical/): A first optimization with [NOMAD](https://www.gerad.ca/nomad)
